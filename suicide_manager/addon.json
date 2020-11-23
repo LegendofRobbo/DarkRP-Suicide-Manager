@@ -1,0 +1,11 @@
+{
+	"title"		:	"DarkRP Suicide Manager",
+	"type"		:	"gamemode",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
